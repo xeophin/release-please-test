@@ -13,5 +13,6 @@
   "dependencies": {
     "bar": "workspace:*",
     "foo": "workspace:*"
-  }
+  },
+  "type": "module"
 }
