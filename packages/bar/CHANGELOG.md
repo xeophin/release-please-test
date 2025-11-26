@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/xeophin/release-please-test/compare/bar-v1.0.0...bar-v1.1.0) (2025-11-26)
+
+
+### Features
+
+* add barbara ([ad536ac](https://github.com/xeophin/release-please-test/commit/ad536acfda2f8a343686cd2f82cbf41a548ef877))
+
 ## 1.0.0 (2025-11-26)
 
 

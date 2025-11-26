@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.0.2](https://github.com/xeophin/release-please-test/compare/foobar-v1.0.1...foobar-v1.0.2) (2025-11-26)
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * bar bumped to 1.1.0
+    * foo bumped to 1.0.1
+
 ## [1.0.1](https://github.com/xeophin/release-please-test/compare/foobar-v1.0.0...foobar-v1.0.1) (2025-11-26)
 
 

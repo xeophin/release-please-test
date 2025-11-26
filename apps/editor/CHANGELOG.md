@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.0.1](https://github.com/xeophin/release-please-test/compare/editor-v1.0.0...editor-v1.0.1) (2025-11-26)
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * foobar bumped to 1.0.2
+
 ## 1.0.0 (2025-11-26)
 
 

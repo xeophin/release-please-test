@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/xeophin/release-please-test/compare/foo-v1.0.0...foo-v1.0.1) (2025-11-26)
+
+
+### Bug Fixes
+
+* foo foo ([2a985ee](https://github.com/xeophin/release-please-test/commit/2a985eeb1bb2cbe71484c92afe20bf9b1aa143ea))
+
 ## 1.0.0 (2025-11-26)
 
 
