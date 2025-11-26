@@ -6,6 +6,7 @@
 	"packages": {
 		"packages/foo": {},
 		"packages/bar": {},
-		"packages/foobar": {}
+		"packages/foobar": {},
+		"apps/editor": {}
 	}
 }

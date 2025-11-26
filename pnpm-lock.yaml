@@ -8,6 +8,12 @@ importers:
 
   .: {}
 
+  apps/editor:
+    dependencies:
+      foobar:
+        specifier: workspace:*
+        version: link:../../packages/foobar
+
   packages/bar: {}
 
   packages/foo: {}
