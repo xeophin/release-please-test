@@ -4,11 +4,8 @@
 	"plugins": ["node-workspace"],
 	"release-type": "node",
 	"packages": {
-		"packages/foo": {
-			"plugins": ["node-workspace"]
-		},
-		"packages/bar": {
-			"plugins": ["node-workspace"]
-		}
+		"packages/foo": {},
+		"packages/bar": {},
+		"packages/foobar": {}
 	}
 }
