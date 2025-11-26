@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/xeophin/release-please-test/compare/foobar-v1.0.0...foobar-v1.0.1) (2025-11-26)
+
+
+### Bug Fixes
+
+* export foobar as module ([474cf2d](https://github.com/xeophin/release-please-test/commit/474cf2d052419c07df83ca3d7c6802bfe1f0f060))
+
 ## 1.0.0 (2025-11-26)
 
 
