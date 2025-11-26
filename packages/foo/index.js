@@ -1,2 +1,2 @@
-export const foo = 'foo'
+export const foo = 'foofoo'
 export const anotherFoo = 'anotherFoo'
