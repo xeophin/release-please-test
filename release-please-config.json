@@ -1,8 +1,14 @@
 {
+	"$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json",
+	"include-component-in-tag": true,
 	"plugins": ["node-workspace"],
 	"release-type": "node",
 	"packages": {
-		"packages/foo": {},
-		"packages/bar": {}
+		"packages/foo": {
+			"plugins": ["node-workspace"]
+		},
+		"packages/bar": {
+			"plugins": ["node-workspace"]
+		}
 	}
 }
