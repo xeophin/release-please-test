@@ -16,6 +16,7 @@ jobs:
     steps:
       - uses: googleapis/release-please-action@v4
         with:
+          token: '${{ secrets.PAT }}'
           # this is a built-in strategy in release-please, see "Action Inputs"
           # for more options
           release-type: node
