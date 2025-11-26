@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.0](https://github.com/xeophin/release-please-test/compare/v1.0.0...v1.1.0) (2025-11-26)
+
+
+### Features
+
+* export another foo ([e646ee5](https://github.com/xeophin/release-please-test/commit/e646ee5951af6eba4244247c4b78e2565d134134))
+* export bar ([afc0a3e](https://github.com/xeophin/release-please-test/commit/afc0a3e6b84f002966eea53663fad91806d0b005))
+
 ## 1.0.0 (2025-11-26)
 
 
